@@ -7,8 +7,9 @@
 - <b>Python</b>
   - [ProjectTitle](https://nolinkyet)
 
-<h2>📄 Certifications</h2>
+<h2>📄 Education & Certifications</h2>
 
+- [Lighthouse Labs - Cybersecurity Diploma (In progress)]
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/8dd701ea-999e-4fa6-a513-7a298b52b11e)
 - [CompTia A+ (In progress)](https://nolinkyet)
 - [CompTia Security + (In progress)](https://nolinkyet)
