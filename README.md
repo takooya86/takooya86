@@ -10,7 +10,9 @@
 <h2>📄 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/8dd701ea-999e-4fa6-a513-7a298b52b11e)
-
+- [CompTia A+ (In progress)](https://nolinkyet)
+- [CompTia Security + (In progress)](https://nolinkyet)
+- [Cisco CCNA (In progress)](https://nolinkyet)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
