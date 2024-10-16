@@ -1,4 +1,4 @@
-<h1>Hi, I'm Takuya!</h1>
+<h1>Hi, I'm Takuya! Cybersecurity Professional & Service & Sales Specialist!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
