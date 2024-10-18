@@ -2,25 +2,29 @@
 
 I’m a passionate cybersecurity professional with a strong foundation in vulnerability assessments, incident response, and cloud security. With experience in deploying SIEM solutions, conducting vulnerability scans, and securing cloud environments (AWS and Azure), I’m constantly working on personal projects to enhance my technical skills and stay updated with industry trends.
 
-<h2>🔐 What I do: </h2>
-- B.S. Cybersecurity and Information Assurance
-- Diploma in Cybersecurity
-- B.S. Cybersecurity and Information Assurance
-- Diploma in Cybersecurity
+<h2>🔐 What I do:</h2>
+
+- Secure cloud configurations and assess vulnerabilities to safeguard digital assets.
+- Build and automate security monitoring solutions using tools like Microsoft Sentinel, Splunk, and Nessus.
+- Engage in incident response simulations and create strategies to mitigate cyber threats.
+- Conduct vulnerability assessments to identify and mitigate security risks.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>TestTest</b>
+- <b>SIEM Implementation in Azure Cloud</b>
   - [Subtitle](https://nolinkyet)
-- <b>Python</b>
+- <b>Vulnerability Assessment Lab</b>
+  - [ProjectTitle](https://nolinkyet)
+- <b>Multi Honeypot Platform for Threat Detection</b>
   - [ProjectTitle](https://nolinkyet)
 
-<h2>📄 Education & Certifications</h2>
+<h2>🌟 Education & Certifications</h2>
 
 - B.S. Cybersecurity and Information Assurance
 - Diploma in Cybersecurity
-- [CompTia Security+](https://www.credly.com/badges/e402ddbe-502b-49a8-8ff0-aa2bc905ce49)
-- [Google Cybersecurity Certificate](https://www.credly.com/badges/8dd701ea-999e-4fa6-a513-7a298b52b11e)
+- CompTIA Security+
+- Google Cybersecurity Certificate
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
