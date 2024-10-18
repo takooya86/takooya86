@@ -13,9 +13,9 @@ I’m a passionate cybersecurity professional with a strong foundation in vulner
 
 - <b>Cloud Cybersecurity Projects</b>
   - [SIEM implementation in Azure Cloud](https://github.com/takooya86/cloud-siem/tree/main)
-- <b>Vulnerability Assessment Lab</b>
-  - [ProjectTitle](https://nolinkyet)
-- <b>Multi Honeypot Platform for Threat Detection</b>
+- <b>GRC Projects</b>
+  - [Vulnerability Assessment Lab](https://nolinkyet)
+- <b>Offensive Cybersecurity Projects</b>
   - [ProjectTitle](https://nolinkyet)
 
 <h2>🌟 Education & Certifications</h2>
