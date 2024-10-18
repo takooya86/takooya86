@@ -1,4 +1,6 @@
-<h1>Hi there, I'm Takuya 👋</h1>
+<h1>👋 Hello! I'm Takuya – Cybersecurity and Cloud Enthusiast</h1>
+
+I’m a passionate cybersecurity professional with a strong foundation in vulnerability assessments, incident response, and cloud security. With experience in deploying SIEM solutions, conducting vulnerability scans, and securing cloud environments (AWS and Azure), I’m constantly working on personal projects to enhance my technical skills and stay updated with industry trends.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
