@@ -11,7 +11,7 @@ I’m a passionate cybersecurity professional with a strong foundation in vulner
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Cloud Cybersecurity Projects</b>
+- <b>Cloud Security Projects</b>
   - [SIEM implementation in Azure Cloud](https://github.com/takooya86/cloud-siem/tree/main)
 - <b>GRC Projects</b>
   - [Vulnerability Assessment Lab](https://nolinkyet)
