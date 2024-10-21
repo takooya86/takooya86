@@ -9,16 +9,18 @@ I’m a passionate cybersecurity professional with a strong foundation in vulner
 - Engage in incident response simulations and create strategies to mitigate cyber threats.
 - Conduct vulnerability assessments to identify and mitigate security risks.
 
-<h2>👨‍💻 Cybersecurity Projects and Resources:</h2>
+<h2>👨‍💻 Cybersecurity Projects and Tutorials:</h2>
 
-- <b>Cloud Security Projects</b>
+- <b>Cloud Security</b>
   - [SIEM implementation in Azure Cloud](https://github.com/takooya86/cloud-siem/tree/main)
-- <b>GRC Projects</b>
+- <b>GRC</b>
   - [NIST 800-37: Risk Management Framework](https://nolinkyet)
   - [NIST 800-53: Security and Privacy Controls](https://nolinkyet)
   - [NIST 800-61: Computer Security Incident Handling Guide](https://nolinkyet)
   - [NIST Cybersecurity Framework](https://nolinkyet)
-- <b>Offensive Cybersecurity Projects</b>
+- <b>Defensive Tools</b>
+  - [ProjectTitle](https://nolinkyet)
+- <b>Offensive Tools</b>
   - [ProjectTitle](https://nolinkyet)
 
 <h2>🌟 Education & Certifications</h2>
