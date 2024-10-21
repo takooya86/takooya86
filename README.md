@@ -19,7 +19,7 @@ I’m a passionate cybersecurity professional with a strong foundation in vulner
   - [NIST 800-61: Computer Security Incident Handling Guide](https://nolinkyet)
   - [NIST Cybersecurity Framework](https://nolinkyet)
 - <b>Defensive</b>
-  - [ProjectTitle](https://nolinkyet)
+  - [Nessus Vulnerability Scanner Deployment](https://nolinkyet)
 
 <h2>🌟 Education & Certifications</h2>
 
