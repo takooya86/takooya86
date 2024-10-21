@@ -20,8 +20,6 @@ I’m a passionate cybersecurity professional with a strong foundation in vulner
   - [NIST Cybersecurity Framework](https://nolinkyet)
 - <b>Defensive</b>
   - [ProjectTitle](https://nolinkyet)
-- <b>Offensive</b>
-  - [ProjectTitle](https://nolinkyet)
 
 <h2>🌟 Education & Certifications</h2>
 
