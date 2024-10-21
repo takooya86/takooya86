@@ -12,8 +12,8 @@ I’m a passionate cybersecurity professional with a strong foundation in vulner
 <h2>👨‍💻 Cybersecurity Projects and Tutorials:</h2>
 
 - <b>Cloud Security</b>
-  - [SIEM implementation in Azure Cloud](https://github.com/takooya86/cloud-siem/tree/main)
-  - [Cloud-Hosted Password Manager](https://nolinkyet)
+  - [SIEM Implementation in Azure Cloud](https://github.com/takooya86/cloud-siem/tree/main)
+  - [Cloud-based Password Manager](https://nolinkyet)
 - <b>GRC</b>
   - [NIST 800-37: Risk Management Framework](https://nolinkyet)
   - [NIST 800-53: Security and Privacy Controls](https://nolinkyet)
