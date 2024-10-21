@@ -18,9 +18,9 @@ I’m a passionate cybersecurity professional with a strong foundation in vulner
   - [NIST 800-53: Security and Privacy Controls](https://nolinkyet)
   - [NIST 800-61: Computer Security Incident Handling Guide](https://nolinkyet)
   - [NIST Cybersecurity Framework](https://nolinkyet)
-- <b>Defensive Tools</b>
+- <b>Defensive</b>
   - [ProjectTitle](https://nolinkyet)
-- <b>Offensive Tools</b>
+- <b>Offensive</b>
   - [ProjectTitle](https://nolinkyet)
 
 <h2>🌟 Education & Certifications</h2>
