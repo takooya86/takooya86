@@ -18,7 +18,7 @@ I’m a passionate cybersecurity professional with a strong foundation in vulner
   - [Popular NIST SP 800 Publications and the Guidelines](https://github.com/takooya86/nist-overview)
   - [CIS Critical Security Controls](https://github.com/takooya86/cis-controls)
 - <b>Defensive</b>
-  - [Nessus Vulnerability Scanner Deployment](https://nolinkyet)
+  - *coming soon* [Nessus Vulnerability Scanner Deployment](https://nolinkyet)
 
 <h2>🌟 Education & Certifications</h2>
 
