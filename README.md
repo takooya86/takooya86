@@ -15,7 +15,7 @@ I’m a passionate cybersecurity professional with a strong foundation in vulner
   - [SIEM Implementation on Azure Cloud](https://github.com/takooya86/cloud-siem/tree/main)
   - [Cloud-based Password Manager on AWS](https://nolinkyet)
 - <b>GRC</b>
-  - [Popular NIST Publications and Guidelines](https://nolinkyet)
+  - [Popular NIST Publications and the Guidelines](https://nolinkyet)
   - [CIS Critical Security Controls](https://nolinkyet)
 - <b>Defensive</b>
   - [Nessus Vulnerability Scanner Deployment](https://nolinkyet)
