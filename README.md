@@ -13,7 +13,7 @@ I’m a passionate cybersecurity professional with a strong foundation in vulner
 
 - <b>Cloud Security</b>
   - [SIEM Implementation on Azure Cloud](https://github.com/takooya86/cloud-siem/tree/main)
-  - [Cloud-based Password Manager on AWS](https://nolinkyet)
+  - *coming soon* [Cloud-based Password Manager on AWS](https://nolinkyet)
 - <b>GRC</b>
   - [Popular NIST SP 800 Publications and the Guidelines](https://github.com/takooya86/nist-overview)
   - [CIS Critical Security Controls](https://github.com/takooya86/cis-controls)
